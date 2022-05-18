@@ -53,15 +53,15 @@
   },
   {
     "ID": "1X5",
-    "PRODUCTNAME": "Ray-Ban Stories Meteor Blue",
-    "GRAPHICNAME": "meteorPolarizedBlue.png",
+    "PRODUCTNAME": "Ray-Ban Stories Meteor Shiny Black",
+    "GRAPHICNAME": "meteorShinyBlack.png",
     "COSTPRICE": 409.99,
     "MSRP": 449.99,
     "QUANTITYONHAND": "30",
     "QUANTITYONBACKORDER": "5",
-    "LENSES": "Polarized Dark Blue Classic",
-    "FRAME": "Blue",
-    "DESCRIPTION": "Smart Glasses with classic Polarized Dark Blue Lens and a Blue Frame in size Standard",
+    "LENSES": "Green Classic G-15",
+    "FRAME": "Shiny Black",
+    "DESCRIPTION": "Smart Glasses with classic Green Lens and a Shiny Black Frame in size Standard",
     "BRAND": "Ray-Ban"
   },
   {
